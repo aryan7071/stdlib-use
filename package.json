@@ -1,0 +1,24 @@
+{
+  "name": "stdlib-use",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryan7071/stdlib-use.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aryan7071/stdlib-use/issues"
+  },
+  "homepage": "https://github.com/aryan7071/stdlib-use#readme",
+  "dependencies": {
+    "@stdlib/stdlib": "^0.3.2"
+  }
+}
